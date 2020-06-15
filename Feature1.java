@@ -1,3 +1,6 @@
 public class Feature1 {
-	public void doSthThing() {}
+	public void doSthThing() {
+		Boolean result = false;
+		
+	}
 }
